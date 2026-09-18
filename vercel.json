@@ -1,0 +1,5 @@
+{
+  "name": "strong-fit-academia-bh",
+  "framework": "nextjs",
+  "buildCommand": "npm run build"
+}
